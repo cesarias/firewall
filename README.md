@@ -3,7 +3,7 @@
 </p>
 
 <h1>🧱🧱🧱 Azure Firewall 🧱🧱🧱</h1>
-This Lab demonstrates setting up Analytic Rules to detect Security events in Sentinel..<br />
+Demonstrating steps needed to configure a Firewall in azure.<br />
 
 
 
